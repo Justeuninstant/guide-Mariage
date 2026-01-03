@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.4em;
+    }
+
+    .package {
+        width: 100%;
+        max-width: 320px;
+    }
+
+    .photos img {
+        width: 100%;
+        max-width: 320px;
+        height: auto;
+    }
+}
